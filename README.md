@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="36px" alt="js logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40px" alt="react logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40px" alt="mcssql logo"/>
+  <img src="https://devicon-website.vercel.app/api/flutter/original.svg" width="40px" alt="flutter logo"/>
 </div>
 <h3>Outros</h3>
 <div>
