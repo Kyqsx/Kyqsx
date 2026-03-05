@@ -3,7 +3,7 @@
 <p>
   Olá! Me chamo Kaiqui e sou estudante de TI.
 
-  - 📚 Atualmente no 2º ano em TI no Ensino Médio Técnico do ITB.
+  - 📚 Atualmente no 3º ano em TI no Ensino Médio Técnico do ITB.
   - 🔥 Buscando aprender mais e melhorar naquilo que já sei.
 </p>
 
